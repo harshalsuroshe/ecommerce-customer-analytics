@@ -1,8 +1,12 @@
-\# E-commerce Customer Profitability \& Retention Intelligence
+# E-commerce Customer Profitability \& Retention Intelligence
 
 
 
-\## Overview
+
+
+
+
+## Overview
 
 
 
@@ -27,12 +31,12 @@ marketplace.
 - **Health & Beauty** was the highest-performing product category by item revenue.
 - **São Paulo (SP)** generated the highest item revenue among Brazilian states.
 - Delivery performance showed a relationship with customer review scores, highlighting the importance of timely fulfillment.
+  
+  
+  
+  
 
-
-
-
-
-\## Business Problem
+## Business Problem
 
 
 
@@ -44,7 +48,7 @@ translate the findings into actionable business recommendations.
 
 
 
-\## Tools
+## Tools
 
 
 
@@ -64,7 +68,7 @@ translate the findings into actionable business recommendations.
 
 
 
-\## Dataset
+## Dataset
 
 
 
@@ -80,7 +84,7 @@ and delivery information.
 
 
 
-\## Project Status
+## Project Status
 
 
 
@@ -88,7 +92,7 @@ and delivery information.
 
 
 
-\## Key Questions
+## Key Questions
 
 
 
@@ -106,11 +110,7 @@ and delivery information.
 
 
 
-\## Project Structure
-
-
-
-```text
+## Project Structure
 
 data/
 
@@ -126,7 +126,7 @@ images/
 
 
 
-\## Data Model
+## Data Model
 
 
 
@@ -164,7 +164,7 @@ and order-item-level grain. This prevents double-counting when
 
 joining transactional tables.
 
-```
+
 
 * Data cleaning and validation with pandas.
 
@@ -177,3 +177,5 @@ joining transactional tables.
 * Visualisations stored in `images/`.
 
 * Findings documented in `docs/python_eda_findings.md`.
+
+
