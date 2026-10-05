@@ -18,6 +18,20 @@ marketplace.
 
 
 
+## 🔍 Key Findings
+
+- Generated approximately **13.22M in item revenue** across the analyzed transactions.
+- Analyzed approximately **96K delivered orders**.
+- Average Order Value was approximately **137.04**.
+- Overall on-time delivery rate was approximately **91.89%**.
+- **Health & Beauty** was the highest-performing product category by item revenue.
+- **São Paulo (SP)** generated the highest item revenue among Brazilian states.
+- Delivery performance showed a relationship with customer review scores, highlighting the importance of timely fulfillment.
+
+
+
+
+
 \## Business Problem
 
 
