@@ -209,6 +209,37 @@ images/
 
 
 
+## 📊 Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, a public e-commerce dataset containing approximately 100,000 orders from 2016–2018.
+
+The dataset includes information about:
+
+- Customers
+- Orders
+- Order items
+- Payments
+- Reviews
+- Products
+- Sellers
+- Geolocation
+
+### Data Source
+
+The dataset was obtained from **Kaggle**.
+
+The original dataset files are **not included in this repository**. They are kept locally because the dataset is subject to its original license terms.
+
+### License
+
+The dataset is licensed under:
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+[View License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
 ## Data Model
 
 
