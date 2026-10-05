@@ -276,6 +276,37 @@ The `powerBI/` directory contains the Power BI dashboard used for interactive bu
 
 
 
+## 💡 Business Recommendations
+
+Based on the analysis, the project highlights several opportunities for improving e-commerce performance:
+
+1. **Improve delivery performance**
+   
+   - Monitor delayed orders and identify operational factors contributing to late deliveries.
+   - Prioritize fulfillment improvements in areas with consistently higher delays.
+
+2. **Focus on high-value customer segments**
+   
+   - Identify customers with higher purchase frequency and order value.
+   - Develop targeted retention and loyalty strategies for these segments.
+
+3. **Strengthen customer retention**
+   
+   - Analyze repeat-purchase behavior and customer return gaps.
+   - Use targeted campaigns to encourage customers to make subsequent purchases.
+
+4. **Optimize category performance**
+   
+   - Focus inventory and marketing efforts on high-performing product categories.
+   - Investigate underperforming categories for pricing, demand, or assortment opportunities.
+
+5. **Use customer feedback operationally**
+   
+   - Monitor the relationship between delivery performance and review scores.
+   - Use negative review patterns to identify areas requiring operational improvement.
+
+
+
 ## Data Model
 
 
@@ -327,3 +358,5 @@ joining transactional tables.
 * Visualisations stored in `images/`.
 
 * Findings documented in `docs/python_eda_findings.md`.
+
+
