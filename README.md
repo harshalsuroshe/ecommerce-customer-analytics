@@ -238,6 +238,42 @@ The dataset is licensed under:
 
 [View License](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
+## 📚 Documentation & Analysis
+
+### Business Analysis
+
+- [Business Questions](docs/business_questions.md)
+- [KPI Definitions](docs/kpi_definitions.md)
+- [Business Findings](docs/business_findings.md)
+- [Data Dictionary](docs/data_dictionary.md)
+
+### SQL Analysis
+
+The `sql/` directory contains SQL scripts covering:
+
+- Data import and validation
+- Basic data exploration
+- Monthly sales analysis
+- Category performance
+- Seller performance
+- Average Order Value
+- Customer retention
+- Delivery performance
+
+### Python Analysis
+
+The `python/` directory contains Jupyter notebooks covering:
+
+- Data quality validation
+- Exploratory Data Analysis (EDA)
+- Customer and sales analysis
+- Statistical exploration
+- Visualization
+
+### Power BI
+
+The `powerBI/` directory contains the Power BI dashboard used for interactive business analysis.
+
 
 
 ## Data Model
