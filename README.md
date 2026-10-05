@@ -33,8 +33,44 @@ marketplace.
 - Delivery performance showed a relationship with customer review scores, highlighting the importance of timely fulfillment.
   
   
-  
-  
+
+## 🔄 Analysis Workflow
+
+```text
+Raw Olist Dataset  
+↓  
+Data Quality Checks  
+↓  
+Data Cleaning & Preparation  
+↓  
+SQL Business Analysis  
+↓  
+Python EDA & Statistical Analysis  
+↓  
+Processed Analytical Tables  
+↓  
+Power BI Data Model  
+↓  
+Interactive Dashboard  
+↓  
+Business Insights & Recommendations
+
+```
+
+
+
+###  Tools Used
+
+| Area              | Tools                |
+| ----------------- | -------------------- |
+| Data Analysis     | Python, Pandas       |
+| Database Analysis | PostgreSQL, SQL      |
+| Statistics        | Python               |
+| Visualization     | Power BI, Matplotlib |
+| Data Preparation  | Pandas, Power Query  |
+| Version Control   | Git, GitHub          |
+
+
 
 ## Business Problem
 
@@ -177,5 +213,3 @@ joining transactional tables.
 * Visualisations stored in `images/`.
 
 * Findings documented in `docs/python_eda_findings.md`.
-
-
