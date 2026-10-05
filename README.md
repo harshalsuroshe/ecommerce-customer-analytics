@@ -12,6 +12,10 @@ revenue, customer value, and repeat purchasing in an e-commerce
 
 marketplace.
 
+## 📊 Power BI Dashboard
+
+![E-commerce Sales Overview](images/powerbi-sales-overview.png)
+
 
 
 \## Business Problem
