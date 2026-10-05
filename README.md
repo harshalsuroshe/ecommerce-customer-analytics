@@ -59,7 +59,7 @@ Business Insights & Recommendations
 
 
 
-###  Tools Used
+### Tools Used
 
 | Area              | Tools                |
 | ----------------- | -------------------- |
@@ -70,7 +70,54 @@ Business Insights & Recommendations
 | Data Preparation  | Pandas, Power Query  |
 | Version Control   | Git, GitHub          |
 
+## 📁 Project Structure
 
+```text
+Ecommerce-Customer-Analytics/  
+│  
+├── data/  
+│ ├── raw/  
+│ └── processed/  
+│ └── powerbi/  
+│  
+├── docs/  
+│ ├── business_findings.md  
+│ ├── business_questions.md  
+│ ├── data_dictionary.md  
+│ ├── kpi_definitions.md  
+│ └── python_eda_findings.md  
+│  
+├── images/  
+│ ├── powerbi-sales-overview.png  
+│ ├── delivery_delay_distribution.png  
+│ ├── monthly_item_revenue.png  
+│ ├── order_value_distribution.png  
+│ ├── order_value_distribution_trimmed.png  
+│ ├── review_scores_by_delivery_delay.png  
+│ ├── top_categories.png  
+│ └── top_states.png  
+│  
+├── powerBI/  
+│ └── E-commerce Sales Overview.pbix  
+│  
+├── python/  
+│ ├── 01_data_quality.ipynb  
+│ └── 02_eda.ipynb  
+│  
+├── sql/  
+│ ├── 01_import_validation.sql  
+│ ├── 02_basic_exploration.sql  
+│ ├── 03_monthly_sales_analysis.sql  
+│ ├── 04_category_performance.sql  
+│ ├── 05_seller_performance.sql  
+│ ├── 06_average_order_value.sql  
+│ ├── 07_customer_retention.sql  
+│ └── 08_delivery_performance.sql  
+│  
+├── .gitignore  
+└── README.md
+
+```
 
 ## Business Problem
 
